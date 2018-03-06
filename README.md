@@ -1,1 +1,2 @@
-Bienvenue sur le fichier README
+Bienvenue sur le fichier README.
+On a ajouté des modifications.
